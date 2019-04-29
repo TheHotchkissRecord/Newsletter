@@ -59,7 +59,7 @@
           <mj-text color="#637381" font-size="16px">
             The Editorial Board sat down with the candidates for student body presidents and asked them some of the questions that you requested.
           </mj-text>
-          <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://www.youtube.com/playlist?list=PL_UL88cTe_RRkRItssVKV1X7bmRrrrdUus" width="300px">
+          <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://www.youtube.com/playlist?list=PL_UL88cTe_RRkRItssVKV1X7bmRrrrdUu" width="300px">
             View
           </mj-button>
         </mj-column>
