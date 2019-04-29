@@ -1,7 +1,8 @@
 <mjml>
   <mj-head>
-    <mj-title>Discount Light</mj-title>
-    <mj-preview>Pre-header Text</mj-preview>
+    <mj-title>Off the Record - April 29, 2019</mj-title>
+    <mj-preview>Hello all! This week features some big decisions - from proctorship to Presidency - and it might be hard to keep track of everything, especially with AP exams fast approaching. The Record is dedicated to covering the school’s biggest events and most pressing
+    issues. </mj-preview>
     <mj-attributes>
       <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
       <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
