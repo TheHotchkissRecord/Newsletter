@@ -68,6 +68,27 @@
 
       <!-- Start of an article 2 -->
       <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Stu-Fac Sleepover Proposal
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            The Stu-Fac committee has been working on a new sleepover proposal that they are ready to unveil! 
+          </mj-text>
+          <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://stufac.thehr.org/sleepoverproposal/" width="300px">
+            View
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text -->
+      <!-- End of an article -->
+
+
+      <!-- Start of an article 2 -->
+      <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
         <mj-column width="100%">
           <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2019/04/d3.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2019/04/students-attend-round-square-conference-in-peru/" />
         </mj-column>
