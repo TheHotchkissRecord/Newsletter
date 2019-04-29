@@ -58,7 +58,7 @@
           <mj-text color="#637381" font-size="16px">
             The Editorial Board sat down with the candidates for student body presidents and asked them some of the questions that you requested.
           </mj-text>
-          <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://www.youtube.com/playlist?list=PL_UL88cTe_RRkRItssVKV1X7bmRrrrdUus" width="300px">
+          <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://www.youtube.com/playlist?list=PL_UL88cTe_RRkRItssVKV1X7bmRrrrdUus" width="300px">
             View
           </mj-button>
         </mj-column>
@@ -87,7 +87,7 @@
           <mj-text color="#637381" font-size="16px">
             On April 5, Keala Henry ’22, Cyrus Farman-Farmaian ’21, Caroline Keswin ’21, Emily Heimer ’21, Madeline Loeffler ’20, Mrs. Carmen Dockery-Perkins, and Ms. Kristin Glasheen departed campus to attend the Round Square conference in Lima, Peru.
           </mj-text>
-          <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2019/04/students-attend-round-square-conference-in-peru/" width="300px">
+          <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2019/04/students-attend-round-square-conference-in-peru/" width="300px">
             Continue Reading
           </mj-button>
         </mj-column>
@@ -117,7 +117,7 @@
             The Varsity Sailing Team dominated at New Englands – could it be a sign of things to come? <br /> The Hotchkiss Varsity Sailing Team recently competed at the New England Fleet Racing Championships on Saturday, April 13. The Championship determined
             which team gets to compete at the Nationals, which will be held on May 12th in Seattle, Washington, which will be one of the culminations of the 2019 season for the team.
           </mj-text>
-          <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2019/04/a-bright-future-for-hotchkiss-sailors/" width="300px">
+          <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2019/04/a-bright-future-for-hotchkiss-sailors/" width="300px">
             Continue Reading
           </mj-button>
         </mj-column>
@@ -149,7 +149,7 @@
             foreshadowing how tight this year’s contest will be. Of the remaining eight teams, four are from England, while Spain, Portugal, Italy, and the Netherlands each present one team. As it stands, Liverpool, Juventus, Tottenham Hotspur, and Barcelona
             will be headed to the semi-finals.
           </mj-text>
-          <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2019/04/quarter-final-analysis-and-predictions-champions-league/" width="300px">
+          <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2019/04/quarter-final-analysis-and-predictions-champions-league/" width="300px">
             Continue Reading
           </mj-button>
         </mj-column>
