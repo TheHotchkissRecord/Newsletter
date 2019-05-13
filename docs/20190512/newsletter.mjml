@@ -1,0 +1,190 @@
+<mjml>
+  <mj-head>
+    <mj-title>Off the Record - April 29, 2019</mj-title>
+    <mj-preview>Presidential Q&As, Round Square Conference, Sailing Wins New England Championships and more...
+    </mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link { color: #5e6ebf }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link { color: #888888 }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <mj-section full-width="full-width" background-color="#02174c" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://graphics.thehr.org/newsletter/offtherecord_dark.png" alt="" align="center" width="400px" />
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
+          Monday, April 29, 2019
+          <br/>
+          <span style="color: #979797; font-weight: normal">-</span>
+        </mj-text>
+        <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="30px">
+          Lakeville, CT
+        </mj-text>
+        <mj-text></mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="16px">
+            Hello all! We hope you enjoy this edition of <i>Off the Record</i>, and we wish everyone a great week! <br /><br /> - <i>The Record Editorial Board</i>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Start of an article 1 -->
+      <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+        <mj-column width="100%">
+          <mj-image src="https://newsletter.thehr.org/20190429/images/prescandidateq&a.png" width="600px" alt="" padding="0" href="https://www.youtube.com/playlist?list=PL_UL88cTe_RRkRItssVKV1X7bmRrrrdUu" />
+        </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Student Body President Candidates Q&A!
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Hookup Culture, Student Actvities, & Seniority – <i>The Record Online's</i> Jeffrey Zhai '20 interviews candidate pairs ahead of the All-School President election tomorrow using student submitted questions.
+          </mj-text>
+          <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://www.youtube.com/playlist?list=PL_UL88cTe_RRkRItssVKV1X7bmRrrrdUu" width="300px">
+            View
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text -->
+      <!-- End of an article -->
+
+      <!-- Start of an article 2 -->
+      <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+        <mj-column width="100%">
+          <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2019/04/d3.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2019/04/students-attend-round-square-conference-in-peru/" />
+        </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+            <i>The Round Square delegates pose in front of Machu Pichu. </i>
+          </mj-text>
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Students Attend Round Square Conference in Peru
+          </mj-text>
+          <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+            Camilla Fritzinger '22
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            On April 5, Keala Henry ’22, Cyrus Farman-Farmaian ’21, Caroline Keswin ’21, Emily Heimer ’21, Madeline Loeffler ’20, Mrs. Carmen Dockery-Perkins, and Ms. Kristin Glasheen departed campus to attend the Round Square conference in Lima, Peru.
+          </mj-text>
+          <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2019/04/students-attend-round-square-conference-in-peru/" width="300px">
+            Continue Reading
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+
+      <!-- Start of an article 3 -->
+      <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+        <mj-column width="100%">
+          <mj-image src="https://newsletter.thehr.org/20190429/images/sailing.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2019/04/a-bright-future-for-hotchkiss-sailors/" />
+        </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+            <i>Hotchkiss Sailors on Lake Wononscopomuc during the New England Fleet Racing Championships</i>
+          </mj-text>
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            A Bright Future for Hotchkiss Sailors
+          </mj-text>
+          <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+            Sander Kuijs '21
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            The Varsity Sailing Team dominated at New Englands – could it be a sign of things to come? <br /> The Hotchkiss Varsity Sailing Team recently competed at the New England Fleet Racing Championships on Saturday, April 13. The Championship determined
+            which team gets to compete at the Nationals, which will be held on May 12th in Seattle, Washington, which will be one of the culminations of the 2019 season for the team.
+          </mj-text>
+          <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2019/04/a-bright-future-for-hotchkiss-sailors/" width="300px">
+            Continue Reading
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+
+
+      <!-- Start of an article 4 -->
+      <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+        <mj-column width="100%">
+          <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2019/02/Ro16CL.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2019/04/quarter-final-analysis-and-predictions-champions-league/" />
+        </mj-column>
+      </mj-section>
+      <!-- Start of text -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+            <i>The previous matchups for the Champions League</i>
+          </mj-text>
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Quarter Final Analysis and Predictions – Champions League
+          </mj-text>
+          <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+            Victoria Chen '21, Sander Kuijs '21, and Michael Zhang '21
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            After a month-long wait, the Union of European Football Associations (UEFA) Champions League finally returned with the quarterfinal round. The first legs took place on April 9th and 10th, providing just six goals. No game had more than two goals scored,
+            foreshadowing how tight this year’s contest will be. Of the remaining eight teams, four are from England, while Spain, Portugal, Italy, and the Netherlands each present one team. As it stands, Liverpool, Juventus, Tottenham Hotspur, and Barcelona
+            will be headed to the semi-finals.
+          </mj-text>
+          <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2019/04/quarter-final-analysis-and-predictions-champions-league/" width="300px">
+            Continue Reading
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- End of text-->
+      <!-- End of an article -->
+
+        <mj-section>
+          <mj-column width="100%" padding="0">
+            <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+              <mj-social-element name="instagram" href="https://www.instagram.com/hotchkissrecord/" background-color="#A1A0A0">
+              </mj-social-element>
+              <mj-social-element name="web" href="https://hotchkissrecord.org/" background-color="#A1A0A0">
+              </mj-social-element>
+            </mj-social>
+            <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+              <a href="https://newsletter.thehr.org/20190429/index.html">View this email in your browser</a>
+            </mj-text>
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+              Copyright © 2019 The Hotchkiss Record, All rights reserved. You are receiving this email because you are a member of the Hotchkiss community.
+            </mj-text>
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+              <b>Our mailing address is:</b><br /> The Hotchkiss Record <br /> 11 Interlaken Rd <br /> Lakeville, CT 06039-2141
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section padding-top="0">
+          <mj-group>
+            <mj-column width="100%" padding-right="0">
+              <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+              </mj-text>
+            </mj-column>
+          </mj-group>
+
+        </mj-section>
+      </mj-wrapper>
+  </mj-body>
+</mjml>
