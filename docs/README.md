@@ -2,6 +2,8 @@
 This is where the archives and HTML versions of the Record's Newsletter, *Off the Record*, are hosted. 
 
 ### Archive
+[Monday – May 18, 2020](http://newsletter.thehr.org/20200518/index.html)
+
 [Monday – May 11, 2020](http://newsletter.thehr.org/20200511/index.html)
 
 [Monday – May 4, 2020](http://newsletter.thehr.org/20200504/index.html)
