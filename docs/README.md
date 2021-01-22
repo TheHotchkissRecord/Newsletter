@@ -2,6 +2,8 @@
 This is where the archives and HTML versions of the Record's Newsletter, *Off the Record*, are hosted.
 
 ### Archive
+[Thursday – January 21, 2020](https://thehotchkissrecord.github.io/newsletter/20210121/index.html)
+
 [Thursday – December 17, 2020](https://thehotchkissrecord.github.io/newsletter/20201217/index.html)
 
 [Thursday – December 3, 2020](https://thehotchkissrecord.github.io/newsletter/20201203/index.html)
