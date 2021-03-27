@@ -1,0 +1,518 @@
+<mjml>
+  <mj-head>
+    <!-- Title and Date -->
+    <mj-title>The Hotchkiss Record: Saturday, March 27, 2021</mj-title>
+    <!-- Description -->
+    <mj-preview>Welcome to the last issue of the CXXII Editorial Board!</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section { -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link { color: #5e6ebf }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link { color: #888888 }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <!-- BODY CONTENT -->
+    <mj-section full-width="full-width" background-color="#02174c" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="https://thehotchkissrecord.github.io/graphics/newsletter/spring_2020_header.png" alt="" align="center" width="800px" />
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
+          <!-- Date -->
+          Saturday, March 27, 2021
+          <br/>
+          <span style="color: #979797; font-weight: normal">-</span>
+        </mj-text>
+        <mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="30px">
+          Lakeville, CT
+        </mj-text>
+        <mj-text></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <!-- TEXT CONTENT -->
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#637381" font-size="16px">
+            Welcome to the last issue of the CXXII Editorial Board! In this issue, we cover community members’ response to the Atlanta shooting, the start of Revisit Day programming, sustainability on campus, and more. In an editorial, the Editors-in-Chief reflect on their past year with <i>The Record</i>. We hope you have enjoyed and learned from the journalism over the past year, and encourage you to contribute and look forward to the upcoming issues under the new CXXIII Editorial Board. Have a great weekend.
+            <br/><br/> - <i>The Record Executive Board</i>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2021/03/9b22c272f90b2b389e7836b25b9386986593d861d92f3cac2aba22dd2367.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2021/03/follow-up-to-asian-american-hate-crimes/" />
+  </mj-column>
+</mj-section> 
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      <a href="https://hotchkissrecord.org/staff_name/getty-images/" class="creditline">Getty Images</a>
+    </mj-text> 
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Follow Up to Asian American Hate Crimes
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Yihan Ding ’22 & Lauren McLane ’23, Arts Editor & Staff Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      On March 16, a white man in Atlanta, Georgia shot and killed eight people, six of whom were Asian women. Though the local deputy sheriff claimed that the shooter had had a “really bad day,” the incident drew attention to the rise of anti-Asian hate crimes and shed light on discrimination against and fetishization of Asian American women.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2021/03/follow-up-to-asian-american-hate-crimes/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article --><!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2021/03/490.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2021/03/revisit-day-programs-begin-virtually/" />
+  </mj-column>
+</mj-section> 
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      <a href="https://hotchkissrecord.org/staff_name/hope-cobera-communications/" class="creditline">Hope Cobera (communications)</a>
+    </mj-text> 
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Revisit Day Programs Begin Virtually
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Parth Jain ’24, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      The photo booth and personalized Hotchkiss M&M’s can’t be found this year, but nonetheless, the school has put together an extensive virtual revisit day program, held from March 12 to April 7.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2021/03/revisit-day-programs-begin-virtually/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article --><!-- Start of an article preview -->
+<!-- Thumbnail <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2021/03/dr-lisanne-norman-teaches-african-american-history-class/" />
+  </mj-column>
+</mj-section> Thumbnail -->
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <!-- Credit <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text> Credit -->
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Dr. Lisanne Norman Teaches African American History Class
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Francesca Farman-Farmaian ’24, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Whether it’s in the Main Building hallway or in a group chat, you might have heard a few students mention their class that meets at 8 p.m. What is this class all about?
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2021/03/dr-lisanne-norman-teaches-african-american-history-class/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article --><!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2021/03/Perseverance-900x506.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2021/03/perseverance-rover-lands-on-mars/" />
+  </mj-column>
+</mj-section> 
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      <a href="https://hotchkissrecord.org/staff_name/nasa/" class="creditline">NASA</a>
+    </mj-text> 
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Perseverance Rover Lands on Mars
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Parth Jain ’24, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Is there life on Mars? Has there ever been? The landing of NASA’s latest rover may soon give us answers to these questions.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2021/03/perseverance-rover-lands-on-mars/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article --><!-- Start of an article preview -->
+<!-- Thumbnail <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2021/03/sea-takes-on-education-and-sustainability-initiatives/" />
+  </mj-column>
+</mj-section> Thumbnail -->
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <!-- Credit <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text> Credit -->
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      SEA Takes on Education and Sustainability Initiatives
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Cecily Smith ’23, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      If you want to learn about the oil industry, climate protests, or environmental exchange-traded funds, turn to the Students for Environmental Action (SEA) club. The club holds discussions about current events, hosts outings, and works towards decreasing the school’s carbon footprint.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2021/03/sea-takes-on-education-and-sustainability-initiatives/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article --><!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2021/03/ecar-900x599.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2021/03/electric-cars-on-campus-a-portrait/" />
+  </mj-column>
+</mj-section> 
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      <a href="https://hotchkissrecord.org/staff_name/david-li/" class="creditline">David Li</a>
+    </mj-text> 
+     <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Mr. Lock’s Tesla electric car.</i>
+    </mj-text> 
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Electric Cars on Campus: A Portrait
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Darina Huang ’23, Staff Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      In recent years, electric cars have increased in popularity among members in the school community. In an effort to promote the use of renewable energy and incentivize faculty to choose electric over Internal Combustion Engine (ICE) vehicles, the school has installed Level 2 charging stations, located near the Mars Athletic Center, Science Building, and various dorms.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2021/03/electric-cars-on-campus-a-portrait/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article --><!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2021/03/Screen-Shot-2021-03-11-at-4.48.28-PM-900x506.png" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2021/03/inside-the-efx-lab/" />
+  </mj-column>
+</mj-section> 
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      <a href="https://hotchkissrecord.org/staff_name/hope-cobera/" class="creditline">Hope Cobera</a>
+    </mj-text> 
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Inside the EFX Lab
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      James Yae ’23, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Walking through the first floor of the Griswold Science Building, it is hard not to be impressed by the EFX Lab’s brightly-lit space and floor-to-ceiling windows.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2021/03/inside-the-efx-lab/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article --><!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2021/03/Walker.jpeg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2021/03/walker-auditorium-receives-infrastructure-upgrades/" />
+  </mj-column>
+</mj-section> 
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Derek Brashears
+    </mj-text> 
+     <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Walker Auditorium under renovation.</i>
+    </mj-text> 
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Walker Auditorium Receives Infrastructure Upgrades
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Tarapu Pyo ’24, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      For the past six decades, Walker Auditorium has served as a gathering place for community events such as All-School meetings, guest speaker presentations, Hotchkiss Dramatic Association (HDA) productions, dance performances, and film screenings. The auditorium is being renovated this year as part of the Class of 2019 and 2020 Senior Parents Gift.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2021/03/walker-auditorium-receives-infrastructure-upgrades/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article --><!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2021/03/21_Bao_Mingxian.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2021/03/artist-of-the-issue-felix-bao-21/" />
+  </mj-column>
+</mj-section> 
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Communications
+    </mj-text> 
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Artist of the Issue: Felix Bao ’21
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Isabella Wei ’23, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Felix Bao ’21, a four-year Senior, is a member of the Hotchkiss Drama Association (HDA), Discipline Committee representative for the Class of 2021, proctor, and co-captain of the boys Varsity Cross Country team.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2021/03/artist-of-the-issue-felix-bao-21/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article --><!-- Start of an article preview -->
+<!-- Thumbnail <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2021/03/hotchkiss-girls-swimming-pushes-onward/" />
+  </mj-column>
+</mj-section> Thumbnail -->
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <!-- Credit <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text> Credit -->
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Hotchkiss Girls Swimming Pushes Onward
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Jeffrey Shi ’24, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      In preparation for its meet against Ethel Walker last Friday, Girls Swimming and Diving powered through some unfamiliar challenges.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2021/03/hotchkiss-girls-swimming-pushes-onward/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article --><!-- Start of an article preview -->
+<!-- Thumbnail <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2021/03/spring-varsity-teams-return-to-competition/" />
+  </mj-column>
+</mj-section> Thumbnail -->
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <!-- Credit <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text> Credit -->
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Spring Varsity Teams Return to Competition
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Nate Seidenstein ’23, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Remember singing along to 2009 throwback songs on bus rides to away games pre-pandemic? Well, that will once again be the reality for Varsity athletes this spring.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2021/03/spring-varsity-teams-return-to-competition/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article --><!-- Start of an article preview -->
+ <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="https://hotchkissrecord.org/wp-content/uploads/2021/03/IMG_0010.jpg" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2021/03/athlete-of-the-issue-julian-leonhardt-21/" />
+  </mj-column>
+</mj-section> 
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+     <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      Margie Bowen
+    </mj-text> 
+     <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i>Leonhardt on the ice.</i>
+    </mj-text> 
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Athlete of the Issue: Julian Leonhardt ’21
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      Alejandro Zheng ’24, Contributing Writer
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      Julian Leonhardt ’21 is a three-year Senior who plays defense on the Boys Varsity Hockey team. He also played for the Portland Jr. Winterhawks while growing up in Vancouver, Washington. Teammate Luke Johnson ’22 said, “He was my [defense] partner last year, and I wouldn’t have wanted to play with anyone else. He’s a beauty on and off the ice.”
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2021/03/athlete-of-the-issue-julian-leonhardt-21/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article --><!-- Start of an article preview -->
+<!-- Thumbnail <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2021/03/announcing-the-cxxiii-editorial-board/" />
+  </mj-column>
+</mj-section> Thumbnail -->
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <!-- Credit <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text> Credit -->
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Announcing the CXXIII Editorial Board
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      The CXXII Executive Board
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      We are excited to announce the CXXIII Editorial Board of <i>The Hotchkiss Record</i>. The current executive board and faculty advisors are proud of all the work done by these individuals and are confident in their ability to continue <i>The Record</i>’s goal of providing a platform for all voices. Please join us in congratulating the new editors.
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2021/03/announcing-the-cxxiii-editorial-board/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article --><!-- Start of an article preview -->
+<!-- Thumbnail <mj-section full-width="full-width" background-color="#ffffff" padding-bottom="0">
+  <mj-column width="100%">
+    <mj-image src="" width="600px" alt="" padding="0" href="https://hotchkissrecord.org/2021/03/final-record-editorials/" />
+  </mj-column>
+</mj-section> Thumbnail -->
+<!-- Start of text -->
+<mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+  <mj-column width="100%">
+    <!-- Credit <mj-text color="#637381" font-size="12px" align=right padding-right="5px">
+      
+    </mj-text> Credit -->
+    <!-- Caption <mj-text color="#637381" font-size="12px" align=left padding-left="5px">
+      <i></i>
+    </mj-text> Caption -->
+    <mj-text color="#212b35" font-weight="bold" font-size="20px">
+      Editors-in-Chief Reflect on Their Past Year
+    </mj-text>
+    <mj-text color="#212b35" font-size="12px" height=15px font-weight="bold">
+      The CXXII Executive Board
+    </mj-text>
+    <mj-text color="#637381" font-size="16px">
+      The Editors-in-Chief reflect on their past year with <i>The Record</i>. 
+    </mj-text>
+    <mj-button background-color="#202F5A" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://hotchkissrecord.org/2021/03/final-record-editorials/" width="300px">
+      Continue Reading
+    </mj-button>
+  </mj-column>
+</mj-section>
+<!-- End of text-->
+<!-- End of an article -->
+      <!-- Footer -->
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Errata
+          </mj-text>
+            
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            <a href="https://forms.gle/s7wttaEXBS6Tchek7">Issue a correction for a previous issue.</a><br/>
+            <a href="https://hotchkissrecord.org/errata/">View an up-to-date list of the errors we are currently aware of.</a>
+          </mj-text>
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            Contact Us
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold">
+            Do you have an idea you would like us to cover?
+            <a href="https://hotchkissrecord.org/contact/">Contact us or submit an anonymous tip.</a>
+          </mj-text>
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="instagram" href="https://www.instagram.com/hotchkissrecord/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="web" href="https://hotchkissrecord.org/" background-color="#A1A0A0">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            <a href="https://thehotchkissrecord.github.io/newsletter/20210327/index.html">View this email in your browser.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            Were you sent this briefing by a friend?
+            <a href="https://thehotchkissrecord.github.io/subscription/">Subscribe here.</a>
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            Copyright © 2021 The Hotchkiss Record, All rights reserved. You are receiving this email because you are a member of the Hotchkiss community, or because you signed up on our website.
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            <b>Our mailing address is:</b><br/> The Hotchkiss Record <br/> 11 Interlaken Rd <br/> Lakeville, CT 06039-2141
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
